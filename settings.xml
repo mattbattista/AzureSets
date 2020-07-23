@@ -1,0 +1,266 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <setmode>PreserveTraits</setmode>
+        <setspeed>0.65</setspeed>
+        <spellsets>
+            <aoe>
+                <slot01>magic fruit</slot01>
+                <slot02>subduction</slot02>
+                <slot04>wind breath</slot04>
+                <slot05>magic hammer</slot05>
+                <slot06>erratic flutter</slot06>
+                <slot07>auroral drape</slot07>
+                <slot08>anvil lightning</slot08>
+                <slot09>spectral floe</slot09>
+                <slot10>metallic body</slot10>
+                <slot11>eyes on me</slot11>
+                <slot12>molting plumage</slot12>
+                <slot13>reactor cool</slot13>
+                <slot14>memento mori</slot14>
+                <slot15>occultation</slot15>
+                <slot16>barrier tusk</slot16>
+                <slot17>tenebral crush</slot17>
+                <slot18>dream flower</slot18>
+            </aoe>
+            <default>
+
+            </default>
+            <defensehybrid>
+                <slot01>paralyzing triad</slot01>
+                <slot02>sinker drill</slot02>
+                <slot03>occultation</slot03>
+                <slot04>magic hammer</slot04>
+                <slot05>saline coat</slot05>
+                <slot06>barbed crescent</slot06>
+                <slot07>sudden lunge</slot07>
+                <slot08>anvil lightning</slot08>
+                <slot09>subduction</slot09>
+                <slot10>magic fruit</slot10>
+                <slot11>erratic flutter</slot11>
+                <slot12>thrashing assault</slot12>
+                <slot13>quad. continuum</slot13>
+                <slot14>heavy strike</slot14>
+                <slot15>barrier tusk</slot15>
+                <slot16>delta thrust</slot16>
+                <slot17>nat. meditation</slot17>
+                <slot18>reactor cool</slot18>
+            </defensehybrid>
+            <delve>
+                <slot01>thrashing assault</slot01>
+                <slot02>spectral floe</slot02>
+                <slot03>nat. meditation</slot03>
+                <slot04>delta thrust</slot04>
+                <slot05>barbed crescent</slot05>
+                <slot06>heavy strike</slot06>
+                <slot07>tenebral crush</slot07>
+                <slot08>erratic flutter</slot08>
+                <slot09>occultation</slot09>
+                <slot10>cocoon</slot10>
+                <slot11>paralyzing triad</slot11>
+                <slot12>magic hammer</slot12>
+                <slot13>dream flower</slot13>
+                <slot14>anvil lightning</slot14>
+                <slot15>sudden lunge</slot15>
+                <slot16>subduction</slot16>
+                <slot17>barrier tusk</slot17>
+                <slot18>fantod</slot18>
+            </delve>
+            <hybrid>
+                <slot01>paralyzing triad</slot01>
+                <slot02>sinker drill</slot02>
+                <slot03>occultation</slot03>
+                <slot04>magic hammer</slot04>
+                <slot05>tenebral crush</slot05>
+                <slot06>barbed crescent</slot06>
+                <slot07>sudden lunge</slot07>
+                <slot08>anvil lightning</slot08>
+                <slot09>subduction</slot09>
+                <slot10>magic fruit</slot10>
+                <slot11>erratic flutter</slot11>
+                <slot12>thrashing assault</slot12>
+                <slot13>quad. continuum</slot13>
+                <slot15>heavy strike</slot15>
+                <slot16>barrier tusk</slot16>
+                <slot17>delta thrust</slot17>
+                <slot18>nat. meditation</slot18>
+            </hybrid>
+            <lilith>
+                <slot01>delta thrust</slot01>
+                <slot02>tenebral crush</slot02>
+                <slot03>anvil lightning</slot03>
+                <slot04>heavy strike</slot04>
+                <slot05>fantod</slot05>
+                <slot06>sickle slash</slot06>
+                <slot07>diffusion ray</slot07>
+                <slot08>barbed crescent</slot08>
+                <slot09>vanity dive</slot09>
+                <slot10>sinker drill</slot10>
+                <slot11>erratic flutter</slot11>
+                <slot12>empty thrash</slot12>
+                <slot13>thrashing assault</slot13>
+                <slot14>tail slap</slot14>
+                <slot15>sudden lunge</slot15>
+                <slot16>cocoon</slot16>
+                <slot17>nat. meditation</slot17>
+                <slot18>frenetic rip</slot18>
+                <slot19>saline coat</slot19>
+                <slot20>metallic body</slot20>
+            </lilith>
+            <puredps>
+                <slot01>erratic flutter</slot01>
+                <slot02>occultation</slot02>
+                <slot03>sickle slash</slot03>
+                <slot04>benthic typhoon</slot04>
+                <slot05>quad. continuum</slot05>
+                <slot06>empty thrash</slot06>
+                <slot07>delta thrust</slot07>
+                <slot08>heavy strike</slot08>
+                <slot09>barbed crescent</slot09>
+                <slot10>paralyzing triad</slot10>
+                <slot11>thrashing assault</slot11>
+                <slot12>sinker drill</slot12>
+                <slot13>tail slap</slot13>
+                <slot14>sudden lunge</slot14>
+                <slot15>fantod</slot15>
+                <slot16>nat. meditation</slot16>
+                <slot17>anvil lightning</slot17>
+                <slot18>tenebral crush</slot18>
+            </puredps>
+            <purestdps>
+                <slot01>erratic flutter</slot01>
+                <slot02>anvil lightning</slot02>
+                <slot03>fantod</slot03>
+                <slot04>tail slap</slot04>
+                <slot05>thrashing assault</slot05>
+                <slot06>sinker drill</slot06>
+                <slot07>nat. meditation</slot07>
+                <slot08>sudden lunge</slot08>
+                <slot09>diffusion ray</slot09>
+                <slot10>delta thrust</slot10>
+                <slot11>empty thrash</slot11>
+                <slot12>heavy strike</slot12>
+                <slot13>paralyzing triad</slot13>
+                <slot14>barbed crescent</slot14>
+                <slot15>tenebral crush</slot15>
+                <slot16>frenetic rip</slot16>
+                <slot17>vanity dive</slot17>
+                <slot18>sickle slash</slot18>
+            </purestdps>
+            <set>
+                <slot01>demoralizing roar</slot01>
+                <slot02>sinker drill</slot02>
+                <slot03>erratic flutter</slot03>
+                <slot04>searing tempest</slot04>
+                <slot05>sickle slash</slot05>
+                <slot06>barbed crescent</slot06>
+                <slot07>anvil lightning</slot07>
+                <slot08>empty thrash</slot08>
+                <slot09>thrashing assault</slot09>
+                <slot10>quad. continuum</slot10>
+                <slot11>sudden lunge</slot11>
+                <slot12>fantod</slot12>
+                <slot13>heavy strike</slot13>
+                <slot14>diffusion ray</slot14>
+                <slot15>acrid stream</slot15>
+                <slot16>delta thrust</slot16>
+                <slot17>nat. meditation</slot17>
+                <slot18>tail slap</slot18>
+            </set>
+            <thmagic>
+                <slot01>molting plumage</slot01>
+                <slot02>magic fruit</slot02>
+                <slot03>erratic flutter</slot03>
+                <slot04>occultation</slot04>
+                <slot05>subduction</slot05>
+                <slot06>plenilune embrace</slot06>
+                <slot07>anvil lightning</slot07>
+                <slot08>reactor cool</slot08>
+                <slot09>amorphic spikes</slot09>
+                <slot10>spectral floe</slot10>
+                <slot11>charged whisker</slot11>
+                <slot12>tenebral crush</slot12>
+                <slot13>battery charge</slot13>
+                <slot14>magic hammer</slot14>
+                <slot15>barrier tusk</slot15>
+                <slot16>memento mori</slot16>
+            </thmagic>
+            <tizonatrial>
+                <slot01>thrashing assault</slot01>
+                <slot02>sinker drill</slot02>
+                <slot03>nat. meditation</slot03>
+                <slot04>anvil lightning</slot04>
+                <slot05>empty thrash</slot05>
+                <slot06>fantod</slot06>
+                <slot07>heavy strike</slot07>
+                <slot08>occultation</slot08>
+                <slot09>magic fruit</slot09>
+                <slot10>diffusion ray</slot10>
+                <slot11>erratic flutter</slot11>
+                <slot12>paralyzing triad</slot12>
+                <slot13>sickle slash</slot13>
+                <slot14>tail slap</slot14>
+                <slot15>sudden lunge</slot15>
+                <slot16>vanity dive</slot16>
+                <slot17>barrier tusk</slot17>
+                <slot18>frenetic rip</slot18>
+            </tizonatrial>
+            <vw1>
+                <slot01>Firespit</slot01>
+                <slot02>Heat Breath</slot02>
+                <slot03>Thermal Pulse</slot03>
+                <slot04>Blastbomb</slot04>
+                <slot05>Infrasonics</slot05>
+                <slot06>Frost Breath</slot06>
+                <slot07>Ice Break</slot07>
+                <slot08>Cold Wave</slot08>
+                <slot09>Sandspin</slot09>
+                <slot10>Magnetite Cloud</slot10>
+                <slot11>Cimicine Discharge</slot11>
+                <slot12>Bad Breath</slot12>
+                <slot13>Acrid Stream</slot13>
+                <slot14>Maelstrom</slot14>
+                <slot15>Corrosive Ooze</slot15>
+                <slot16>Cursed Sphere</slot16>
+                <slot17>Awful Eye</slot17>
+            </vw1>
+            <vw2>
+                <slot01>Hecatomb Wave</slot01>
+                <slot02>Mysterious Light</slot02>
+                <slot03>Leafstorm</slot03>
+                <slot04>Reaving Wind</slot04>
+                <slot05>Temporal Shift</slot05>
+                <slot06>Mind Blast</slot06>
+                <slot07>Blitzstrahl</slot07>
+                <slot08>Charged Whisker</slot08>
+                <slot09>Blank Gaze</slot09>
+                <slot10>Radiant Breath</slot10>
+                <slot11>Light of Penance</slot11>
+                <slot12>Actinic Burst</slot12>
+                <slot13>Death Ray</slot13>
+                <slot14>Eyes On Me</slot14>
+                <slot15>Sandspray</slot15>
+            </vw2>
+            <wkr>
+                <slot01>demoralizing roar</slot01>
+                <slot02>sinker drill</slot02>
+                <slot03>erratic flutter</slot03>
+                <slot04>searing tempest</slot04>
+                <slot05>sickle slash</slot05>
+                <slot06>barbed crescent</slot06>
+                <slot07>anvil lightning</slot07>
+                <slot08>empty thrash</slot08>
+                <slot09>thrashing assault</slot09>
+                <slot10>quad. continuum</slot10>
+                <slot11>sudden lunge</slot11>
+                <slot12>fantod</slot12>
+                <slot13>heavy strike</slot13>
+                <slot14>diffusion ray</slot14>
+                <slot15>acrid stream</slot15>
+                <slot16>delta thrust</slot16>
+                <slot17>nat. meditation</slot17>
+                <slot18>tail slap</slot18>
+            </wkr>
+        </spellsets>
+    </global>
+</settings>
